@@ -3,6 +3,9 @@
 ## Interested In
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#3776AB&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
+
+
 <!--
 **simjeongho/simjeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
