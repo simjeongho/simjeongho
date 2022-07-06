@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-- 🔭 I’m currently working on ... Inha UniverSity
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FrontEnd%20MachineLearning&fontSize=50)
+
+## Interested In
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=#3776AB&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **simjeongho/simjeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
