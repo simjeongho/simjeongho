@@ -13,6 +13,7 @@
 - Code Status <br />
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a>
 
 - Web <br />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> 
@@ -20,6 +21,7 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
 
 - Machine Learning <br />
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> 
@@ -32,8 +34,6 @@
 
 
 ## 🌱I'm Currently learning ... 
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
