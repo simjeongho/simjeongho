@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simjeongho&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
