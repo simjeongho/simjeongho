@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simjeongho&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simjeongho0)](https://solved.ac/simjeongho0)
 
 <!--
 **simjeongho/simjeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
