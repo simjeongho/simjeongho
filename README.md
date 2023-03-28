@@ -34,17 +34,12 @@
 
 
 ## 🌱I'm Currently learning ... 
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-
-## 🤔 I want to learn ...
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simjeongho&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simjeongho0)](https://solved.ac/simjeongho0)
 
-삼성SDS professional 
+삼성SDS SW professional 
 
 <!--
 **simjeongho/simjeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
