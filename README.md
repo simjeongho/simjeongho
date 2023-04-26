@@ -39,7 +39,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simjeongho&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=simjeongho0)](https://solved.ac/simjeongho0)
 
-삼성SDS SW professional 
+삼성SDS SW professional
+
+AWS Solution Architect Association
+
+![aws-certified-solutions-architect-associate (3)](https://user-images.githubusercontent.com/71626430/234544743-7e3e43f4-ae47-455d-b95e-6f17fe51a562.png)
+
+
 
 <!--
 **simjeongho/simjeongho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
