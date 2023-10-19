@@ -27,8 +27,6 @@
 
 삼성SDS SW professional
 
-AWS Solution Architect Associate
-
 ![aws-certified-solutions-architect-associate (3)](https://user-images.githubusercontent.com/71626430/234544743-7e3e43f4-ae47-455d-b95e-6f17fe51a562.png)
 
 
